@@ -4,10 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/**
- *It is a Comparison direction macros for bitonic sort
- *
- */
+/* It is a Comparison direction macros for bitonic sort */
 #define UP 0
 #define DOWN 1
 
