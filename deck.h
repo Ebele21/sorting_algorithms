@@ -21,7 +21,7 @@ typedef enum kind_e
 /**
  * struct card_s - It Plays card
  * @value: It is the Value of the card
- * 	   From "Ace" to "King"
+ * From "Ace" to "King"
  * @kind: It is the Kind of the card
  */
 typedef struct card_s

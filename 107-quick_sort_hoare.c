@@ -80,7 +80,7 @@ void hoare_sort(int *array, size_t size, int left, int right)
  * @array: It is an array of integers.
  * @size: It is the size of the array.
  * Description: It Uses the Hoare partition scheme. Prints
- * 		the array after each swap of two elements.
+ * the array after each swap of two elements.
  */
 void quick_sort_hoare(int *array, size_t size)
 {

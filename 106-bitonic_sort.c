@@ -55,7 +55,7 @@ void bitonic_merge(int *array, size_t size, size_t start, size_t seq,
  * bitonic_seq - It Converts an array of integers into a bitonic sequence.
  * @array: It is an array of integers.
  * @size: It is the size of the array.
- * @start: It is the starting index of a block of the building bitonic sequence.
+ * @start: It is the starting index of a block of the building bitonic sequence
  * @seq: It is the size of a block of the building bitonic sequence.
  * @flow: It is the direction to sort the bitonic sequence block in.
  */
